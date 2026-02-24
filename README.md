@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliekjs aka Ellie Johnson
-- 👀 I’m interested in Industrial Engineering, sustainability, AI, and machine learning
-- 🌱 I’m currently learning how to do technology consulting in my internship
+- 👀 I’m interested in fitness, sustainability, and obviously AI!
+- 🌱 I’m currently coding my first app
 - 📫 How to reach me ... email elliekjohnson@gmail.com
 
 <!---
